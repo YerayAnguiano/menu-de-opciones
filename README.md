@@ -2,7 +2,7 @@
 
 Una manera interacrtiva de realizar calculos u otras operaciones con las distintas aplicaciones que ofrece la página.
 
-[![Abrir en Streamlit](https://menu-aplicaciones-yeray-anguiano.streamlit.app/)](https://blank-app-template.streamlit.app/)
+[![Abrir en Streamlit](https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png)](https://menu-aplicaciones-yeray-anguiano.streamlit.app/)
 
 ### Cómo correrlo desde tu maquina
 
