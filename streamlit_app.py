@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 global GitHubUsage, GitHubTech
-GitHubUsage = "https://menu-aplicacionhttps://github.com/YerayAnguiano/menu-de-opciones"
+GitHubUsage = "https://github.com/YerayAnguiano/menu-de-opciones"
 GitHubTech = "https://github.com/YerayAnguiano/Funcionameinto-de-Menu-de-Opciones"
 
 def pagina0():

@@ -39,5 +39,26 @@ Esta opción suma dos numeros que debe ingresar solo escribiendolos en sus respe
 
 Al hacer click en el botón `Sumar`, se mostrará un mensaje con el resultado de la suma.
 
-<im src="images/suma_dos_numeros.png">
+<img src="images/suma_dos_numeros.png">
+
+## Calcular Área de un Triangulo
+Esta aplicación consta de ingresar el valor de la base y altura de un triangulo. posteriormente al seleccionar el botón `Calcular Área` muestra un mensaje con el resultado de la operación.
+
+<img src="images/area_triangulo.png">
+
+## Calculadora de Descuentos
+Ingrese el valor inicial en el apartado *Ingrese la Cantidad sin Descuento* y el valor del descuento en porcentaje en el apartado *Ingrese el Valor del Porcentaje del Descuento*.
+
+<img src="images/precio_con_descuento.png">
+
+Despues al seleccionar la opcion *Seleccione país (impuesto)*, se despliega una lista con paises y al seleccionar uno se establece el impuesto del país. En caso de que no se encuentre su país, seleccione la opcion `Otro` e ingrese el valor del porcentaje de impuesto en su país.
+
+<img src="images/precio_con_descuento_tabla_paises.png">
+
+## Suma de un Conjunto de Numeros
+Esta aplicación solicita ingresar una lista de numeros separados por coma. Por ejemplo: *1,2,3,5,7*. 
+
+<img src="images/suma_conjunto_de_numeros.png">
+
+Despues de Ingresar los valores y hacer click al botón `Sumar Conjunto`, mostrará un mensaje con la suma de todos los numeros dentro de la lista.
 
